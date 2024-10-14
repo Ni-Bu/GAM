@@ -4,6 +4,8 @@
 
 This project implements Generalized Additive Models (GAMs) to predict Airbnb listing prices in New York City. We explore different basis functions (spline, polynomial, and step function) and compare their performance against a linear regression baseline. The project demonstrates the interpretability of GAMs through partial dependence plots.
 
+Note: Detailed explanations, analysis, and interpretations are primarily contained within the Jupyter notebook itself.
+
 ## Dataset
 
 We use the ["New York City Airbnb Open Data"](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) dataset from Kaggle:
