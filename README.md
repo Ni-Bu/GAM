@@ -6,7 +6,7 @@ This project implements Generalized Additive Models (GAMs) to predict Airbnb lis
 
 ## Dataset
 
-We use the "New York City Airbnb Open Data" dataset from Kaggle:
+We use the ["New York City Airbnb Open Data"](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data) dataset from Kaggle:
 
 -   File: `AB_NYC_2019.csv`
 -   Features used: latitude, longitude, minimum_nights, number_of_reviews, reviews_per_month, calculated_host_listings_count, availability_365
