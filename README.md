@@ -16,7 +16,7 @@ We use the ["New York City Airbnb Open Data"](https://www.kaggle.com/datasets/dg
 
 ## Installation
 
-1. Ensure you have Python 3.7+ installed.
+1. Ensure you have Python installed.
 2. Install required libraries:
     ```
     pip install pandas numpy scikit-learn pygam matplotlib
